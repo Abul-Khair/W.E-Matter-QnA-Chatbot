@@ -28,7 +28,7 @@ This repository contains the source code for the **W.E Matter Q&A Chatbot**, a c
 3. **Download Model Files**
    Download all the necessary model files from the provided **Google Drive link** below, and place them inside the `interview_qnda_model` folder.
 
-   **[[Google Drive Link](#)](https://drive.google.com/drive/folders/1LErbJFh3SG3XvyPwRTByRaFIClOhA9kx?usp=sharing)**  ← Replace this with your actual link.
+   **[[Google Drive Link](https://drive.google.com/drive/folders/1LErbJFh3SG3XvyPwRTByRaFIClOhA9kx?usp=sharing)]**  
 
 4. **Install Dependencies**
    Install the required dependencies using `pip`:
