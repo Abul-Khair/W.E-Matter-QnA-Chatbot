@@ -1,4 +1,5 @@
 streamlit==1.25.0
 torch==2.2.0
 transformers==4.35.0
+Pillow==9.2.0
 
