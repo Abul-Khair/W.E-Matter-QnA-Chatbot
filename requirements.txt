@@ -1,5 +1,8 @@
-streamlit==1.25.0
-torch==2.2.0
-transformers==4.35.0
-Pillow==9.2.0
-
+streamlit==1.31.0
+torch==2.1.0
+transformers==4.36.0
+numpy==1.24.3
+protobuf==4.25.1
+safetensors==0.4.1
+accelerate==0.25.0
+sentencepiece==0.1.99
