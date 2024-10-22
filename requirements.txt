@@ -1,9 +1,4 @@
-streamlit==1.31.0
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.2.1+cpu
-transformers==4.37.2
-numpy>=1.24.3
-protobuf==4.25.1
-safetensors==0.4.1
-accelerate==0.26.1
-sentencepiece==0.1.99
+streamlit
+torch==2.2.1+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+protobuf
